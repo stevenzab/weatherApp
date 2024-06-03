@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Navbar() {
 	return (
-		<div className="bg-blue-300">
+		<div className="bg-gradient-to-br from-sky-400 via-rose-lime to-lime-rose bg-opacity-100 z-sticky">
 			<div className="max-w-7xl mx-auto px-4 py-6">
 				<div className="flex items-center justify-between">
 					<div className="flex items-center">
